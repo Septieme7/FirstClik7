@@ -1,4 +1,4 @@
-# 📱 First Clik7
+# 📱 First Clik7 🥚
 Version Kotlin Android CameraX
 
 First Clik7 est une application Android native conçue pour capturer des moments et les explorer avec une précision extrême. Grâce à une intégration poussée de la caméra et un système de zoom intelligent, elle offre une gestion fluide et professionnelle de vos photographies.
@@ -67,7 +67,7 @@ La fonction détecte dynamiquement la source de l'image pour un chargement sans 
 ## ⚙️ Installation & Configuration
 1. **Clonage** :
    ```bash
-   git clone https://github.com/votre-depot/firstclik7.git
+   git clone https://github.com/Septieme7/firstclik7.git
    ```
 
 2. **Ouverture** : Importer le projet dans Android Studio (Version Hedgehog ou supérieure).
@@ -82,6 +82,6 @@ La fonction détecte dynamiquement la source de l'image pour un chargement sans 
 
 ---
 
-Développé avec ❤️ dans le cadre du projet First Clik7.  
-01011100011... 8888111888...
+Développé avec ❤️&☕ dans le cadre du projet First Clik7. et merci JC... ton 🐤... egg for U 🥚🥚🥚...
+01011100011... 888811188811...
 ```
