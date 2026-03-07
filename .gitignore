@@ -8,7 +8,7 @@ out/
 /captures
 .externalNativeBuild
 .cxx
-*.apk
+#*.apk  --> hey NON <--
 *.aar
 *.ap_
 
