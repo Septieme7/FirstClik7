@@ -1,0 +1,16 @@
+// Fichier build.gradle au niveau du projet
+// Il configure les plugins et dépendances communes à tous les modules.
+
+buildscript {
+    ext.kotlin_version = '1.9.20' // Version de Kotlin utilisée dans le projet
+    repositories {
+        google()                // Dépôt Google (pour les plugins Android)
+        mavenCentral()          // Dépôt Maven Central (pour les bibliothèques Kotlin, etc.)
+    }
+    dependencies {
+        // Plugin Android Gradle (AGP) version 8.4.0, compatible avec Gradle 9.2.1
+        classpath 'com.android.tools.build:gradle:8.13.2'
+        // Plugin Kotlin Gradle
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}

@@ -1,0 +1,53 @@
+# --- DOSSIERS DE BUILD ET BINAIRES ---
+# Ignore tous les fichiers générés lors de la compilation
+build/
+bin/
+gen/
+out/
+.gradle/
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aar
+*.ap_
+
+# --- CONFIGURATION ANDROID STUDIO (.idea) ---
+# On ignore les réglages propres à l'interface de ton PC
+.idea/
+# Optionnel : on garde juste le style de code si on travaille à plusieurs
+!.idea/codeStyles/
+*.iml
+*.ipr
+*.iws
+
+# --- FICHIERS LOCAUX / PERSONNELS ---
+# Contient les chemins vers ton SDK (propre à ton ordinateur)
+local.properties
+# Fichiers de log et caches système
+.DS_Store
+*.log
+
+# --- CONFIGURATION GRADLE ---
+# Ces fichiers sont souvent régénérés par Android Studio
+/gradlew
+/gradlew.bat
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+
+# --- SÉCURITÉ : CLÉS DE SIGNATURE (JKS) ---
+# TRÈS IMPORTANT : Ne jamais envoyer tes clés de signature sur Git !
+*.jks
+*.keystore
+*.p12
+
+# --- FICHIERS TEMPORAIRES ET CACHES ---
+*.swp
+*~
+.navigation/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
