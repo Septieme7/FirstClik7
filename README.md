@@ -84,4 +84,8 @@ La fonction détecte dynamiquement la source de l'image pour un chargement sans 
 
 Développé avec ❤️&☕ dans le cadre du projet First Clik7. et merci JC... ton 🐤... egg for U 🥚🥚🥚...
 01011100011... 888811188811...
+
+![Screenshot 1 First Clik7](screenshots/screenshot1.png)
+![Screenshot 2 First Clik7](screenshots/screenshot2.png)	
+![Screenshot 3 First Clik7](screenshots/screenshot3.png)
 ```
