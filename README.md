@@ -3,6 +3,21 @@ Version Kotlin Android CameraX
 
 First Clik7 est une application Android native conçue pour capturer des moments et les explorer avec une précision extrême. Grâce à une intégration poussée de la caméra et un système de zoom intelligent, elle offre une gestion fluide et professionnelle de vos photographies.
 
+---
+
+## 🆘 Aide & Reconstruction (Nouveau !)
+Pour vous aider à recréer ce projet de A à Z ou pour comprendre chaque ligne de code en détail, consultez mon guide interactif complet :
+
+👉 **[Consulter la Documentation Master (HTML)](Documentation_FirstClik7.html)**
+
+Ce guide inclut :
+- Une checklist de progression sauvegardée.
+- Tous les codes sources complets prêts à copier-coller.
+- Un mode Sombre/Clair pour le confort de lecture.
+- Le lien vers le pack de ressources (PicsSoundPack.zip.).
+
+---
+
 ## 📖 Sommaire
 1. [🚀 Fonctionnalités](#-fonctionnalités)
 2. [🛠 Technologies & Librairies](#-technologies--librairies)
@@ -19,7 +34,7 @@ L'application propose un cycle complet de gestion d'image :
 - 📸 **Capture Haute Précision** : Utilisation de CameraX pour une prise de vue stable et optimisée selon le matériel de l'appareil.
 - 🖼️ **Galerie Intelligente** : Affichage dynamique via un `RecyclerView` utilisant le moteur de rendu Flexbox, permettant une disposition fluide des miniatures.
 - 🔍 **Système "Deep Zoom"** : Visualisation en plein écran avec support du pincement (pinch-to-zoom) pour inspecter les détails de chaque cliché.
-- 💾 **Gestion de Base de Données** : Persistance des chemins de photos via Room pour garantir que vos souvenirs sont conservés après chaque redémarrage.
+- 6️⃣ **Gestion de Base de Données** : Persistance des chemins de photos via Room pour garantir que vos souvenirs sont conservés après chaque redémarrage.
 
 ## 🛠 Technologies & Librairies
 Le projet s'appuie sur une stack technique moderne et robuste :
@@ -83,9 +98,9 @@ La fonction détecte dynamiquement la source de l'image pour un chargement sans 
 ---
 
 Développé avec ❤️&☕ dans le cadre du projet First Clik7. et merci JC... ton 🐤... egg for U 🥚🥚🥚...
-01011100011... 888811188811...
+01011100011... 888811188811...🪳
 
 ![Screenshot 1 First Clik7](screenshots/screenshot1.png)
 ![Screenshot 2 First Clik7](screenshots/screenshot2.png)	
 ![Screenshot 3 First Clik7](screenshots/screenshot3.png)
-```
+---
